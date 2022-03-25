@@ -13,7 +13,7 @@
 <a href="https://instagram.com/ratnesh5255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ratnesh5255" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCmhRlbIdLWqXi2QdLtltRkQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="programming boyzz" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ratneshthakur40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ratneshthakur40" height="30" width="40" /></a>
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-512.png" alt="ratneshthakur.40@gmail.com" height="35" width="35"</a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-512.png" alt="ratneshthakur.40@gmail.com" height="35" width="35" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishaw-Developer&show_icons=true&locale=en&layout=compact" alt="Rishaw-Developer" /></p>
